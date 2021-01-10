@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there! 👋 I'm Yao Wang, a software engineer.</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=timwangdev&count_private=true&disable_animations=true&show_icons=true&hide_border=true&hide=contribs&include_all_commits=true" alt="GitHub Stats">

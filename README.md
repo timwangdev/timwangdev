@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋!</h2>
 
-I'm Tim Wang, a software engineer from China. I'm specializing in the web development.
+I'm Tim Wang, a software engineer from China. My expertise is in the web development.
 
 ![](https://github-readme-stats.vercel.app/api?username=timwangdev&hide_border=true&include_all_commits=true&count_private=true)<br/>
 

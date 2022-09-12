@@ -7,6 +7,7 @@ I'm Tim Wang, a software engineer from China. My expertise is in the web develop
 ### Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/timwangdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timwangdev/)
+[![V2EX](https://img.shields.io/badge/V2EX-%231F1F1F.svg?style=for-the-badge&logo=v2ex&logoColor=white)](https://www.v2ex.com/member/Pastsong)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.me/timwang)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/timwangme)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pastsong)
